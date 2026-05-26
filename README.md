@@ -153,3 +153,12 @@ git clone https://github.com/kvenky24/Project--Loan-Prediction.git
 ```bash
 jupyter notebook
 ```
+---
+
+## Requirements
+
+Install required libraries using:
+
+```bash
+pip install -r requirements.txt
+```
