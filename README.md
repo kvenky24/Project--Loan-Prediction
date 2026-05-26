@@ -145,7 +145,7 @@ The project includes:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/kvenky24/loan-prediction-project.git
+git clone https://github.com/kvenky24/Project--Loan-Prediction.git
 ```
 
 ### Open Jupyter Notebook
